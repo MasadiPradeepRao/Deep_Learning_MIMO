@@ -94,4 +94,4 @@ Ensure that the **DeepMIMOv2 folder** and its subfolders are added to the MATLAB
   ```matlab
   addpath(genpath('deepmimov2_folder_directory'))
 
-
+[![Architecture diagram of masadipradeeprao/deep_learning_mimo](https://gitdiagram.com/masadipradeeprao/deep_learning_mimo/diagram.png)](https://gitdiagram.com/masadipradeeprao/deep_learning_mimo?utm_source=readme&utm_medium=picture)
