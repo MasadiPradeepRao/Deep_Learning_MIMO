@@ -2,7 +2,7 @@
 
 ## Overview
 
-<<<<<<< HEAD
+
 This project explores deep-learning-based beamforming for wireless multiple-input multiple-output (MIMO) systems. It brings together ray-tracing-based channel generation, beamforming codebooks, and machine-learning tools for preparing data, training models, and studying beam-prediction performance.
 
 The MATLAB component uses the DeepMIMOv2 dataset to construct channel information for selected users and base stations. The Python notebook contains supporting channel and beamforming examples, neural-network training code, and visualizations of system and learning metrics.
@@ -94,4 +94,4 @@ Ensure that the **DeepMIMOv2 folder** and its subfolders are added to the MATLAB
   ```matlab
   addpath(genpath('deepmimov2_folder_directory'))
 
->>>>>>> origin/main
+
